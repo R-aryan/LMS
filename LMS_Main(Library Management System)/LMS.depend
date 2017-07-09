@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1498489582 source:g:\code_chef\data_structures\lms\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<algorithm>
+	<vector>
+
+1497978093 source:g:\code_chef\data_structures\lms\sample.cpp
+	<windows.h>
+	<mysql.h>
+	<bits/stdc++.h>
+
